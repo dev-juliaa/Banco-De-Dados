@@ -33,7 +33,7 @@ banco de dados que vai armazenar seus cursos, turmas e alunos.
 <br>
 
 > Criação de Bancos De Dados
-<b></br>
+<br></br>
 > Utilização da ferramenta mySQL
 <br></br>
 > Consultas e Queries no banco de dados
