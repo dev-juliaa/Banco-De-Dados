@@ -25,5 +25,5 @@ banco de dados que vai armazenar seus cursos, turmas e alunos.
 > + Existem outras entidades além dessas três?
 <br></br>
 > + Quais são os principais campos e tipos?
-<br>
+<br></br>
 > + Como essas entidades estão relacionadas?
