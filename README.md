@@ -15,3 +15,13 @@ banco de dados que vai armazenar seus cursos, turmas e alunos.
 > Com isso, precisamos criar um banco de dados para armazenar informações como: os cursos, quantidade de turmas e dados dos alunos cadastrados no sistema Resilia de Educação.
 
 > Com a criação de uma Query, responderemos as perguntas a seguir
+
+<br>
+
+<b>Perguntas</b>
+
+<br>
+
++ Existem outras entidades além dessas três?
++ Quais são os principais campos e tipos?
++ Como essas entidades estão relacionadas?
