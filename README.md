@@ -28,6 +28,8 @@ banco de dados que vai armazenar seus cursos, turmas e alunos.
 <br></br>
 > + Como essas entidades estão relacionadas?
 
+<br>
+
 <b>Conhecimentos Adquiridos</b>
 
 <br>
@@ -37,3 +39,11 @@ banco de dados que vai armazenar seus cursos, turmas e alunos.
 > Utilização da ferramenta mySQL
 <br></br>
 > Consultas e Queries no banco de dados
+
+<br>
+
+<b>Ferramentas utilizadas</b>
+
+<br>
+
+> mySQL
