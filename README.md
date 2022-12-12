@@ -27,3 +27,13 @@ banco de dados que vai armazenar seus cursos, turmas e alunos.
 > + Quais são os principais campos e tipos?
 <br></br>
 > + Como essas entidades estão relacionadas?
+
+<b>Conhecimentos Adquiridos</b>
+
+<br>
+
+> Criação de Bancos De Dados
+<b></br>
+> Utilização da ferramenta mySQL
+><br></br>
+> Consultas e Queries no banco de dados
