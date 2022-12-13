@@ -1,6 +1,9 @@
 <h1>Banco De Dados Resilia Educação </h1>
 
-> Status: Developing
+> Status: completo
+
+<img align = "center" width ="120%" src= "projeto4modulo.PNG">
+
 
 <br>
 
@@ -27,6 +30,16 @@ banco de dados que vai armazenar seus cursos, turmas e alunos.
 > + Quais são os principais campos e tipos?
 <br></br>
 > + Como essas entidades estão relacionadas?
+
+<br>
+
+<b>Respostas</b>
+
+> + sim, as entidades podem ser de acordo com o desejo e exigencias do cliente.
+<br></br>
+> + alunos, turma, cursos, disciplina, professores. Varchat, text, int, tityint.
+<br></br>
+> + um para muitos e muitos para muitos.
 
 <br>
 
