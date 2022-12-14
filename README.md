@@ -2,7 +2,7 @@
 
 > Status: completo
 
-<img align = "center" width ="120%" src= "modulo4.PNG">
+<img align = "center" width ="120%" src= "modulo4.png">
 
 
 <br>
